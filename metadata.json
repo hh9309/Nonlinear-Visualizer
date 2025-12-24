@@ -1,0 +1,5 @@
+{
+  "name": "智能规划实验室 (Smart Planning Lab)",
+  "description": "一个交互式的非线性规划与动态规划求解平台，支持逐步求解、自动求解以及 AI 智能洞察与建议。",
+  "requestFramePermissions": []
+}
